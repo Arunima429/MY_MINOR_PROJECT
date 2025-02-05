@@ -1,0 +1,1 @@
+# MY_MINOR_PROJECT
